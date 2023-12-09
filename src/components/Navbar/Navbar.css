@@ -1,0 +1,83 @@
+.nav-active .active {
+    color: #f97316;
+}
+.nav-active a:hover {
+    color:aliceblue;
+}
+
+
+.day {
+    background-color:rgb(249 239 230);
+    color: #0f1729;
+}
+.day .navbar .active {
+    color: #ea580c;
+    font-weight: 700;
+}
+.day .navbar :hover {
+    color: #0f1729;
+}
+.day .navbar {
+    background-color: rgb(236, 206, 181);
+}
+.day .card {
+    background-color:#ed7d41;
+    color: #fff;
+    box-shadow: none;
+}
+.day .card .card-body {
+    font-weight: 900;
+}
+.day .card .card-body :hover {
+    color: rgb(236, 206, 181);
+}
+.day .collapse {
+    background-color: rgb(236, 206, 181);
+    color:#0f1729;
+}
+.day .collapse :hover {
+    color:#ea580c;
+}
+.day .footer {
+    background-color: rgb(236, 206, 181);
+    color:#0f1729;
+    font-weight: bold;
+    font-size: 16px;
+}
+.day .hero {
+    background-color: white;
+}
+.day .hero .input {
+    background-color: white;
+    color: #9ca3af;
+}
+.day .hero .input .label {
+    color: #fff;
+}
+.day .hero .input > option {
+    color: #0f1729;
+}
+.day button {
+    color: #0a0f1b;
+    font-weight: bold;
+    font-size: 20px;
+}
+.day .card h2 > span:nth-child(2) {
+    color: #0a0f1b;
+    font-weight: bold;
+}
+.day .card p > span:nth-child(2) {
+    color: #0a0f1b;
+    font-weight: bold;
+}
+.day .navbar .menu {
+    color: #16234f;
+    background-color: #ecceb5;
+}
+.day .navbar .icon-car {
+    color: #16234f;
+}
+.day form .register-text {
+    color: #16234f;
+    margin-left: 0px;
+}
